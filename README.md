@@ -44,14 +44,8 @@ Systems Engineering student (final semester, 23 y/o) and Software Developer. Exp
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SebasMjz&theme=algolia&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=SebasMjz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastiantx0604@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59176474075)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/SebasMjz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebasmjz/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SebasMjz)
